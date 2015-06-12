@@ -1,0 +1,15 @@
+name: Website
+highlighter: pygments
+baseurl: http://betagrinder.github.io/mobile_dev
+exclude:
+  - .bundle
+  - .git
+  - .gitignore
+  - bin
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+markdown: kramdown
+collections:
+- events
