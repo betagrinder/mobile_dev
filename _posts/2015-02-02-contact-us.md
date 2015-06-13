@@ -5,7 +5,7 @@ title: Contact Us
 published: true
 --- 
 
-<form action="https://mobiledevcontact.herokuapp.com/">
+<form action="https://mobiledevcontact.herokuapp.com/send">
   Email: <input type="text" name="name"><br>
   Name: <input type="text" name="email"><br>
   Subject: <input type="text" name="subject"><br>
@@ -13,4 +13,3 @@ published: true
   <input type="submit" value="Send Message">
 </form> 
 
-https://mobiledevcontact.herokuapp.com/send?name=peazak%40gmail.com&email=paul&subject=test&message=testst
